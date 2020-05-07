@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  API Calling II
+//  API Calling
 //
-//  Created by Christina Ferrari on 5/4/20.
-//  Copyright © 2020 TheLastAce. All rights reserved.
+//  Created by Ella Wickstrom on 2/4/20.
+//  Copyright © 2020 Ella Wickstrom. All rights reserved.
 //
 
 import UIKit
